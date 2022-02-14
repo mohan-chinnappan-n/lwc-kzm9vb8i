@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/mohan-chinnappan-n.lwc-kzm9vb8i",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve RfUsa5XGsJ5o6onsa4U0 --open"
+  }
+}
